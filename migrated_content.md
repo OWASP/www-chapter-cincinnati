@@ -59,7 +59,7 @@ selection committee for the OWASP global conferences for the last three
 years.
 
 **Presentation:**
-<https://www.owasp.org/images/e/ed/Allison-Shubert_The-Softer-Side-of-Security.pdf>
+</www-pdf-archive/Allison-Shubert_The-Softer-Side-of-Security.pdf>
 
 ## August 2019 Meeting
 
@@ -105,7 +105,7 @@ architecture review, web application assessments, external and internal
 penetration testing and vulnerability assessments, social engineering
 assessments, and cloud security assessments.
 
-**Link to Presentation**: <https://www.owasp.org/images/6/65/SSRF.pdf>
+**Link to Presentation**: </www-pdf-archive/SSRF.pdf>
 
 ## June 2019 Meeting
 
@@ -129,7 +129,7 @@ and Team lead with Security services providing companies in Telecom and
 Healthcare domains.
 
 **Presentation**:
-<https://www.owasp.org/images/0/0c/Managing_Open_Source_Library_Risks.pdf>
+</www-pdf-archive/Managing_Open_Source_Library_Risks.pdf>
 
 ## March 2019 Meeting
 
@@ -281,7 +281,7 @@ operations and management teams, and creating security testing
 processes.
 
 <b>Presentation:</b> A copy of the presentation can be found
-[here](https://www.owasp.org/index.php/File:OWASP_TOP_TEN_-_2017_Cincinnati.pdf)
+[here](/www-pdf-archive/File:OWASP_TOP_TEN_-_2017_Cincinnati.pdf)
 
 <b>Meeting Sponsor:</b> [TekSystems](https://www.teksystems.com)
 
@@ -1325,7 +1325,7 @@ from
     effortless.
 
 <b>The presentation can be downloaded from
-[here](https://www.owasp.org/images/9/98/Manage_Your_Risk_With_ThreatModeler.pdf)</b>
+[here](/www-pdf-archive/Manage_Your_Risk_With_ThreatModeler.pdf)</b>
 
 ## June Meeting
 
@@ -1443,7 +1443,7 @@ from
     mitigate them.
 
 <b>The presentation can be downloaded from
-[here](https://www.owasp.org/images/d/d1/Cloud-security.pdf)</b>
+[here](/www-pdf-archive/Cloud-security.pdf)</b>
 
 ## January Meeting
 
@@ -1470,7 +1470,7 @@ from
     prevented and detected.
 
 <b>The presentation can be downloaded from
-[here](https://www.owasp.org/images/a/aa/OWASP_Cincinnati_Jan_2011.pdf)</b>
+[here](/www-pdf-archive/OWASP_Cincinnati_Jan_2011.pdf)</b>
 
 # 2010 Presentations
 
@@ -1485,7 +1485,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/c/c1/OWASP_Cincy_Web2_Threats_and_Countermeasures.pdf)</b>
+    [here](/www-pdf-archive/OWASP_Cincy_Web2_Threats_and_Countermeasures.pdf)</b>
 
 <!-- end list -->
 
@@ -1532,7 +1532,7 @@ from
     and how to fix it</b> Mr. Blaine Wilson, Information Security
     Architect at Great American Insurance :<b>The presentation can be
     downloaded from
-    [here](https://www.owasp.org/images/f/f8/OWASP_-_TLS_Renegotiation_Vulnerability.pdf)</b>
+    [here](/www-pdf-archive/OWASP_-_TLS_Renegotiation_Vulnerability.pdf)</b>
 
 ## September Meeting
 
@@ -1544,7 +1544,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/6/6e/OWASP.v.2.pdf)</b>
+    [here](/www-pdf-archive/OWASP.v.2.pdf)</b>
     The Internet threat landscape has shifted. What used to be a
     playground for hackers, crackers, script kiddies and packet monkeys
     is now a borderless abyss of organized crime fueled by financial
@@ -1566,7 +1566,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/b/bd/OWASP_Cincinnati_July2010_GunterOllmann.pdf)</b>
+    [here](/www-pdf-archive/OWASP_Cincinnati_July2010_GunterOllmann.pdf)</b>
     Security researcher Gunter Ollmann of Damballa provides an analysis
     of the botnet threats and the crimeware used by cybercriminals
     including banking trojans such as Zeus. Information about the
@@ -1587,7 +1587,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/0/04/Plugins_Security_OWASP_Cincinnati-2010-Prezo.pdf)</b>
+    [here](/www-pdf-archive/Plugins_Security_OWASP_Cincinnati-2010-Prezo.pdf)</b>
     Popular open source web applications have evolved into complex
     software ecosystems, consisting of a core maintained by a set of
     long term developers and a range of plugins developed by third
@@ -1613,7 +1613,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/8/81/Protecting_the_Enterprise_-_Software_Backdoors.pdf)</b>
+    [here](/www-pdf-archive/Protecting_the_Enterprise_-_Software_Backdoors.pdf)</b>
     With the increasing practice of outsourcing and using 3rd party
     libraries, it is nearly impossible for an enterprise to identify the
     pedigree and security of the software running its business critical
@@ -1667,7 +1667,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/e/e7/Thick_Client_%28In%29Security_-_Neelay_S_Shah_-_Mar_24.pdf)</b>
+    [here](/www-pdf-archive/Thick_Client_%28In%29Security_-_Neelay_S_Shah_-_Mar_24.pdf)</b>
     Applications are becoming richer in terms of their user interface,
     attempting to leave a lasting impression on the users and wanting
     them to come back for more. Applications these days expose various
@@ -1722,7 +1722,7 @@ from
 
   -
     <b>The presentation can be downloaded from
-    [here](https://www.owasp.org/images/4/42/Microsoft-SDL2.pdf)</b>
+    [here](/www-pdf-archive/Microsoft-SDL2.pdf)</b>
     This talk will focus on the tools that Microsoft has developed for
     aiding in creating more secure applications. Microsoft developed the
     SDL system back in 2004 and it has begun to mature, but it still has
@@ -1914,7 +1914,7 @@ from
 
   -
     <b>The presentation is available
-    [herein](https://www.owasp.org/images/e/e5/The_Web_Hacking_Incidents_Database_-_2009_Bi-Annual_Report.pdf)</b>
+    [herein](/www-pdf-archive/The_Web_Hacking_Incidents_Database_-_2009_Bi-Annual_Report.pdf)</b>
     The web hacking incident database (WHID) is a Web Application
     Security Consortium project dedicated to maintaining a list of web
     applications related security incidents. WHID goal is to serve as a
@@ -1941,7 +1941,7 @@ from
 
   -
     <b>The presentation is available
-    [herein](https://www.owasp.org/images/c/c0/OWASP_Top_10_And_Security_Flaws_Root_Causes_Cincy_May_26_09_Final.pdf).</b>
+    [herein](/www-pdf-archive/OWASP_Top_10_And_Security_Flaws_Root_Causes_Cincy_May_26_09_Final.pdf).</b>
     The fact that security flaws are still so pervasive in web
     applications today highlights the need to identify and fix them by
     looking at the root causes in the application architecture. This
@@ -1966,7 +1966,7 @@ from
 
   -
     <b>The presentation is available
-    [herein](https://www.owasp.org/images/5/55/OWASP-Cin-April2009.pdf).</b>
+    [herein](/www-pdf-archive/OWASP-Cin-April2009.pdf).</b>
     Site takedown services, anti-phishing filters, and millions of
     dollars worth of protective technologies...and the spear phishers
     are still successful\! This presentation will discuss why this is
@@ -2380,5 +2380,5 @@ Membership](https://www.owasp.org/index.php/Membership) web page.
 
 <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Ohio](Category:Ohio "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Ohio](Category:Ohio )
