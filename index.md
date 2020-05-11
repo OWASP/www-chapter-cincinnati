@@ -1,11 +1,15 @@
 ---
+
 layout: col-sidebar
 title: OWASP Cincinnati
 site_side: true
-tags: example-tag
+tags: cincinnati
 level: 3
 region: United States
+
 ---
+<!-- rebuild -->
+
 <h1>Welcome to the Cincinnati, OH OWASP Local Chapter</h1>
 
 Cincinnati OWASP chapter meetings are free and open to anyone
