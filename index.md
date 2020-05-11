@@ -1,6 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Cincinnati
+site_side: true
 tags: example-tag
 level: 3
 region: United States
