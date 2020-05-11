@@ -12,6 +12,21 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## May 2020 Meeting
+
+### Software Pen Testing – Burp Suite Primer and Extensions Deep Dive
+
+**Discussion Abstract:** At the heart of web application security stands manual penetration testing capabilities. Burp Suite is a widely used Application security toolkit to aid security testing through interception, tampering, and analysis of web traffic.  While it’s an indispensable tool for AppSec professionals, there are opportunities and extend use cases of the product to others in your organization including Quality Assurance and Engineering.  For this talk, we’ll be providing a high-level overview of Burp Suite, the features that the product carries, and common uses of the platform across different roles within organizations.  We’ll then spend time deep diving into different extensions that BurpSuite offers to drive additional value out of the product and elevate your testing. 
+
+**Speaker Biography**: Dhanashree is an Application Security Engineer with Paycor Inc. In addition to Pentesting Web and mobile applications, her focus areas include working with development teams to help build security in the SDLC. She has formerly worked as a Security consultant and Team lead with Security services providing companies in Telecom and Healthcare domains and is CISSP certified. 
+
+**Location:
+Virtual Event - Zoom Conference
+Information Available through EventBrite Registration
+
+**Presentation:**
+</www-pdf-archive/Allison-Shubert_The-Softer-Side-of-Security.pdf>
+
 ## October 2019 Meeting
 
 ### The Softer Side of Security
