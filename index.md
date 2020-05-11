@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Cincinnati
 tags: example-tag
-level: 0
+level: 3
 region: United States
 ---
 <h1>Welcome to the Cincinnati, OH OWASP Local Chapter</h1>
