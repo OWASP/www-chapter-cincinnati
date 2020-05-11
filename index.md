@@ -9,7 +9,7 @@ region: United States
 currency: gbp
 
 ---
-
+Welcome to the Cincinnati U.S.A. OWASP Local Chapter. The chapter lead is Adam Leisring. The OWASP chapter meetings are free and open to anyone interested in information security, risk management, data protection and application security. Chapter meetings are usually held monthly. If you have never attended a meeting before and you are interested to attend one in the future, please join the Mailing List. The mailing list is also used for sharing application security knowledge among the local community members. You can also review the email archives to see what local folks have been talking about.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
