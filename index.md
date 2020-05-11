@@ -34,55 +34,6 @@ please review the [Chapter
 Rules](https://www.owasp.org/index.php/Chapter_Rules).
 
 
-
-<!-- end list -->
-
-  -
-    **The presentation is available
-    [herein](https://www.owasp.org/images/5/53/Introduction_to_OWASP.pdf).**
-
-<!-- end list -->
-
-  -
-    OWASP plays a special role in the application security ecosystem, is
-    vehicle for sharing knowledge and lead best practices across
-    organizations. As an example OWASP is a community of people
-    passionate about application security. We all share a vision of a
-    world where you can confidently trust the software you use. One of
-    our primary missions is to make application security visible so that
-    people can make informed decisions about risk. OWASP is the most
-    authoritative and resourceful application security organization to
-    share and open source tools, documents, basic information,
-    guidelines, presentations projects worldwide. The OWASP Top Ten list
-    includes a reference for most critical web application security
-    flaws compiled by a variety of security experts from around the
-    world. The list is recommended by U.S. Federal Trade Commission, the
-    U.S. Defense Information Systems Agency and is adopted by Payment
-    Card Industry (PCI) as a requirement for security code
-    reviews.Through OWASP you’ll find a rich community of people to
-    connect through mailing lists, participating in the local chapters,
-    and attending conferences. The people involved in OWASP recognize
-    the world’s software is most likely getting less and less secure. As
-    we increase our interconnections and use more and more powerful
-    computing technologies, the likelihood of introducing
-    vulnerabilities increases exponentially. Whatever the internet
-    becomes, OWASP can play a key role in making sure that it is a place
-    we can trust. This meeting will provide an opportunity to meet local
-    OWASP affiliates and members and know more about how to contribute
-    to OWASP.
-
-<!-- end list -->
-
-  - Webgoat and Webscarab Security Tools Use Cases - Blaine Wilson
-    ([Citigroup](http://www.citibank.com/us/index.htm), TISO)
-
-<!-- end list -->
-
-  -
-    The presentation will show how to use popular OWASP tools such as
-    Webscarab web proxy and Webgoat to learn about common security
-    vulnerabilities in applications
-
 # About OWASP
 
 The OWASP Foundation is a 501(c)3 non-profit organization incorporated
