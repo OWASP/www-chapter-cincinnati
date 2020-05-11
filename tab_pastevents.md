@@ -25,7 +25,7 @@ Virtual Event - Zoom Conference
 Information Available through EventBrite Registration
 
 **Presentation:**
-<assets/presentations/OWASP Cinci -May 2020- BurpSuite Primer and extensions.pdf>
+https://owasp.org/www-chapter-cincinnati/assets/presentations/OWASP%20Cinci%20-May%202020-%20BurpSuite%20Primer%20and%20extensions.pdf
 
 ## October 2019 Meeting
 
