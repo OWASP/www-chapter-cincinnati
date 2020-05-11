@@ -25,7 +25,7 @@ Virtual Event - Zoom Conference
 Information Available through EventBrite Registration
 
 **Presentation:**
-</www-pdf-archive/Allison-Shubert_The-Softer-Side-of-Security.pdf>
+<assets/presentations/OWASP Cinci -May 2020- BurpSuite Primer and extensions.pdf>
 
 ## October 2019 Meeting
 
