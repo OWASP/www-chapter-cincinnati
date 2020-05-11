@@ -2,12 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Cincinnati
-tags: example-tag
-level: 0
-
+site_side: true
+tags: cincinnati
+level: 3
 region: United States
-
-auto-migrated: 1
+currency: gbp
 
 ---
 
@@ -25,8 +24,12 @@ Please change these items to indicate the actual information you wish to present
 - region: This is the region you are in according to our data
 ```
 
-{copy for this file (index.md)}
+{copy for this file (index.md)
+test
+}
+
 Replace the text above the commented area with your information in the format below:
+
 ```
 ## Welcome
 Include some information here about your chapter
