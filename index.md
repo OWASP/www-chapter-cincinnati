@@ -9,10 +9,9 @@ region: United States
 
 
 ---
-[<https://www.owasp.org/images/6/6a/OWASP_Cincy.png>](https://www.owasp.org/index.php/cincinnati)
+<h1>Welcome to the Cincinnati U.S.A. OWASP Local Chapter</1>. 
 
-Welcome to the Cincinnati U.S.A. OWASP Local Chapter. The chapter lead
-is Adam Leisring. The OWASP chapter meetings are free and open to anyone
+The chapter lead is Adam Leisring. The OWASP chapter meetings are free and open to anyone
 interested in information security, risk management, data protection and
 application security. Chapter meetings are usually held monthly. If you
 have never attended a meeting before and you are interested to attend
