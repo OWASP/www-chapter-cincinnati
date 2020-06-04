@@ -5,7 +5,7 @@ title: OWASP Cincinnati
 site_side: true
 tags: cincinnati
 level: 3
-region: United States
+region: North America
 
 ---
 <!-- rebuild -->
