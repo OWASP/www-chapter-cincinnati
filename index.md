@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Cincinnati
 site_side: true
 tags: cincinnati
+meetup group: owasp-cincinnati-meetup-group
 level: 3
 region: North America
 
@@ -14,8 +15,11 @@ region: North America
 
 Cincinnati OWASP chapter meetings are free and open to anyone
 interested in information security, risk management, data protection and
-application security. Chapter meetings are usually held bi-monthly. If you
-have never attended a meeting before and you are interested to attend
+application security. Chapter meetings are usually held bi-monthly. 
+Visit Meetup Group for the Meeting information: 
+{% include chapter_events.html group=page.meetup-group %}
+
+If you have never attended a meeting before and you are interested to attend
 one in the future, please join the [Mailing
 List](https://groups.google.com/a/owasp.org/forum/#!forum/cincinnati-chapter).
 The mailing list is also used for sharing application security knowledge
@@ -59,7 +63,4 @@ discounts to security conferences and other perks. For more information
 consult the [OWASP
 Membership](https://www.owasp.org/index.php/Membership) web page.
 
-<headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter )
-[Category:Ohio](Category:Ohio )
