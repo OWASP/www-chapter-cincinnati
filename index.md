@@ -16,8 +16,11 @@ region: North America
 Cincinnati OWASP chapter meetings are free and open to anyone
 interested in information security, risk management, data protection and
 application security. Chapter meetings are usually held bi-monthly. 
-Visit Meetup Group for the Meeting information: 
+
+## Visit Meetup Group for the Meeting information: 
+
 {% include chapter_events.html group=page.meetup-group %}
+
 
 If you have never attended a meeting before and you are interested to attend
 one in the future, please join the [Mailing
