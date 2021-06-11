@@ -2380,5 +2380,3 @@ Membership](https://www.owasp.org/index.php/Membership) web page.
 
 <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter )
-[Category:Ohio](Category:Ohio )
