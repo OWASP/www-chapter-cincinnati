@@ -9,7 +9,7 @@ region: United States
 
 
 ---
-[<https://www.owasp.org/images/6/6a/OWASP_Cincy.png>](https://www.owasp.org/index.php/cincinnati)
+
 
 __NOTOC__
 
