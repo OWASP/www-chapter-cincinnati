@@ -32,9 +32,9 @@ what local folks have been talking about.
 
 The board currently includes the following members:
 
-<b>Chapter Leader:</b> [Adam Leisring](mailto:adam.leisring@owasp.org)
-<b>Chapter Board Member:</b> Kristen Smith
-<b>Chapter Board Member:</b> Lee Epling
+<b>Chapter Leader:</b> [Adam Leisring](mailto:adam.leisring@owasp.org)<br>
+<b>Chapter Board Member:</b> Ryan Jones<br>
+<b>Chapter Board Member:</b> Lee Epling<br><br>
 If you are interested in presenting at one of the chapter meetings
 please send an abstract and bio to the [chapter chair (Adam
 Leisring)](mailto:adam.leisring@owasp.org). Prior to participating,
