@@ -12,6 +12,23 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## April 2022 Meeting
+
+### Log4j Vulnerability - Overview and AppSec Implications
+
+**Discussion Abstract:** In December of last year, security researchers discovered and disclosed a vulnerability in a ubiquitous piece of logging software known as Log4j.  Log4j disrupted the lives of millions of security and IT practitioners scrambling to patch this easy-to-leverage vulnerability as quickly as possible.  The range of scope of the vulnerability was broad; from the software that we use on a day to day basis to the software that many companies write for their line-of-business products.  In this talk, Ryan Jones will give an overview of the vulnerability and implications that Information Technology and Application Security Engineers should be aware of.
+
+**Speaker Biography**: Ryan Jones is Paycor's Sr. Director of Enterprise Architecture and is heavily involved in Information Security. In his 17 year career he has experience in all aspects of software development from system's design, development, to QA and requirements verification. He is passionate about all facets of technology including Systems Architecture and Information Security.
+
+**Location:
+Virtual Event - Zoom Conference
+Information Available through EventBrite Registration (TBD)
+
+**Presentation:**
+TBD
+
+----------------------
+
 ## May 2020 Meeting
 
 ### Software Pen Testing – Burp Suite Primer and Extensions Deep Dive
