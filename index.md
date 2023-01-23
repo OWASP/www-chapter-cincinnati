@@ -57,8 +57,8 @@ OWASP is an open source project dedicated to finding and fighting the
 causes of insecure software. All of our materials are free and offered
 under an open source license, so you do not have to become a member to
 use them or participate in our projects, mailing lists, conferences,
-meetings or other activities. On the other hand OWASP rely membership
-fees and sponsorship to support his activities. There are also unique
+meetings or other activities. On the other hand OWASP relies on membership
+fees and sponsorship to support it's activities. There are also unique
 benefits to become a corporate member such as the use of OWASP materials
 within your organization without the restrictions associated with the
 various open source licenses. OWASP individual members also get
