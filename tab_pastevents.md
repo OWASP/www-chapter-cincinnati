@@ -21,7 +21,7 @@ tags: cincinnati
 **Speaker Biography:** Jay Simmons is a senior application security analyst at Great American Insurance Group who is responsible for their security champions program. 
 
 **Presentation:*
-[OWASP Cinci - November 2022 - Security Champions Program](https://owasp.org/www-chapter-cincinnati/assets/presentations/Maintaining%20a%20Security%20Champions%20Program.pdf)
+[OWASP Cinci - November 2022 - Security Champions Program](./assets/presentations/Maintaining%20a%20Security%20Champions%20Program.pdf)
 
 ## June 2022 Meeting
 
@@ -32,7 +32,7 @@ tags: cincinnati
 **Speaker Biography:** Hi! My name is Shlomo Heigh and I'm a senior software engineer at CyberArk. I maintain the Conjur open source secrets management application, primarily working on integrations with platforms like Kubernetes and engaging with the open source community.  Before that, I was a full stack developer for a SaaS firm. I've worked with everything from Ruby to Go and am always looking for new things to learn.  In my spare time I hang out with my wife and 3-year-old daughter, tinker with my 3D printer, and tend to my garden.
 
 **Presentation:**
-TBD
+[OWASP Cinci - June 2022 - Conjur Secrets Management](./assets/presentations/Conjur.Secrets.Management.pdf)
 
 ## April 2022 Meeting
 
@@ -62,7 +62,7 @@ Virtual Event - Zoom Conference
 Information Available through EventBrite Registration
 
 **Presentation:**
-[OWASP Cinci - May 2020 - BurpSuite Primer and extensions](https://owasp.org/www-chapter-cincinnati/assets/presentations/OWASP%20Cinci%20-May%202020-%20BurpSuite%20Primer%20and%20extensions.pdf)
+[OWASP Cinci - May 2020 - BurpSuite Primer and extensions](./assets/presentations/OWASP%20Cinci%20-May%202020-%20BurpSuite%20Primer%20and%20extensions.pdf)
 
 ## October 2019 Meeting
 
