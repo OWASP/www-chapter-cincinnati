@@ -20,7 +20,7 @@ tags: cincinnati
 
 **Speaker Biography:** Jay Simmons is a senior application security analyst at Great American Insurance Group who is responsible for their security champions program. 
 
-**Presentation:*
+**Presentation:**
 [OWASP Cinci - November 2022 - Security Champions Program](./assets/presentations/Maintaining%20a%20Security%20Champions%20Program.pdf)
 
 ## June 2022 Meeting
