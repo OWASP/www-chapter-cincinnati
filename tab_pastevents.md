@@ -12,13 +12,35 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## November 2022 Meeting
+
+### Security Champions Program
+
+**Discussion Abstract:** A security champions program is unique to the organization and their development teams. As application security teams begin to look towards these types of programs, it's important to have a good understanding of the complexities and goals a program like this will have, along with the relationship your security team has with your development team. In this talk we'll go through what growing and maintaining an effective program looks like, along with some of obstacles and ways to overcome them.
+
+**Speaker Biography:** Jay Simmons is a senior application security analyst at Great American Insurance Group who is responsible for their security champions program. 
+
+**Presentation:**
+[OWASP Cinci - November 2022 - Security Champions Program](./assets/presentations/Maintaining%20a%20Security%20Champions%20Program.pdf)
+
+## June 2022 Meeting
+
+### Conjur Secrets Management
+
+**Discussion Abstract:** The process of making our code more secure has many components, but how we secure the keys to our kingdom is probably the area with the most to lose. After all, if an attacker has your database credentials, you're toast. Yet many developers don't have a comprehensive system for managing such sensitive information.  Do your software developers have access to the production database? If an employee quits, could they take their credentials with them, or could you easily revoke access without affecting the other developers or production deployments? Can you easily audit access to your secrets and see which applications are using them? Can you easily rotate secrets that are used in containerized deployments in multiple different clouds?  In this talk we'll demonstrate how to solve all of these problems with Conjur, an open source secrets management application.
+
+**Speaker Biography:** Hi! My name is Shlomo Heigh and I'm a senior software engineer at CyberArk. I maintain the Conjur open source secrets management application, primarily working on integrations with platforms like Kubernetes and engaging with the open source community.  Before that, I was a full stack developer for a SaaS firm. I've worked with everything from Ruby to Go and am always looking for new things to learn.  In my spare time I hang out with my wife and 3-year-old daughter, tinker with my 3D printer, and tend to my garden.
+
+**Presentation:**
+[OWASP Cinci - June 2022 - Conjur Secrets Management](./assets/presentations/Conjur.Secrets.Management.pdf)
+
 ## April 2022 Meeting
 
 ### Log4j Vulnerability - Overview and AppSec Implications
 
 **Discussion Abstract:** In December of last year, security researchers discovered and disclosed a vulnerability in a ubiquitous piece of logging software known as Log4j.  Log4j disrupted the lives of millions of security and IT practitioners scrambling to patch this easy-to-leverage vulnerability as quickly as possible.  The range of scope of the vulnerability was broad; from the software that we use on a day to day basis to the software that many companies write for their line-of-business products.  In this talk, Ryan Jones will give an overview of the vulnerability and implications that Information Technology and Application Security Engineers should be aware of.
 
-**Speaker Biography**: Ryan Jones is Paycor's Sr. Director of Enterprise Architecture and is heavily involved in Information Security. In his 17 year career he has experience in all aspects of software development from system's design, development, to QA and requirements verification. He is passionate about all facets of technology including Systems Architecture and Information Security.
+**Speaker Biography:** Ryan Jones is Paycor's Sr. Director of Enterprise Architecture and is heavily involved in Information Security. In his 17 year career he has experience in all aspects of software development from system's design, development, to QA and requirements verification. He is passionate about all facets of technology including Systems Architecture and Information Security.
 
 **Location:
 Virtual Event - Zoom Conference
@@ -26,8 +48,6 @@ Information Available through EventBrite Registration (TBD)
 
 **Presentation:**
 TBD
-
-----------------------
 
 ## May 2020 Meeting
 
@@ -42,7 +62,7 @@ Virtual Event - Zoom Conference
 Information Available through EventBrite Registration
 
 **Presentation:**
-[OWASP Cinci -May 2020 - BurpSuite Primer and extensions](https://owasp.org/www-chapter-cincinnati/assets/presentations/OWASP%20Cinci%20-May%202020-%20BurpSuite%20Primer%20and%20extensions.pdf)
+[OWASP Cinci - May 2020 - BurpSuite Primer and extensions](./assets/presentations/OWASP%20Cinci%20-May%202020-%20BurpSuite%20Primer%20and%20extensions.pdf)
 
 ## October 2019 Meeting
 
