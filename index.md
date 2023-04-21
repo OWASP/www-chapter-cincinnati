@@ -38,7 +38,7 @@ The board currently includes the following members:
 If you are interested in presenting at one of the chapter meetings
 please send an abstract and bio to the [chapter chair
 (Shlomo Heigh)](mailto:shlomo.heigh@owasp.org). Prior to participating,
-please review the [Chapter Rules](https://www.owasp.org/index.php/Chapter_Rules).
+please review the [Chapter Rules](https://owasp.org/www-policy/operational/chapters).
 
 
 # About OWASP
