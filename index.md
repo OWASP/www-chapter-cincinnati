@@ -24,7 +24,8 @@ application security. Chapter meetings are usually held bi-monthly.
 
 If you have never attended a meeting before and you are interested to attend
 one in the future, please join the [Mailing
-List](https://groups.google.com/a/owasp.org/forum/#!forum/cincinnati-chapter).
+List](https://groups.google.com/a/owasp.org/forum/#!forum/cincinnati-chapter)
+or [Slack](https://owasp.org/slack/invite) (#chapter-cincinnati).
 The mailing list is also used for sharing application security knowledge
 among the local community members. You can also review the [email
 archives](https://lists.owasp.org/pipermail/owasp-cincinnati/) to see
@@ -32,14 +33,12 @@ what local folks have been talking about.
 
 The board currently includes the following members:
 
-<b>Chapter Leader:</b> [Adam Leisring](mailto:adam.leisring@owasp.org)<br>
-<b>Chapter Board Member:</b> Ryan Jones<br>
-<b>Chapter Board Member:</b> Lee Epling<br><br>
+<b>Chapter Leader:</b> [Shlomo Heigh](mailto:shlomo.heigh@owasp.org)<br>
+<b>Chapter Leader:</b> [Ryan Jones](mailto:ryan.jones@owasp.org)<br>
 If you are interested in presenting at one of the chapter meetings
-please send an abstract and bio to the [chapter chair (Adam
-Leisring)](mailto:adam.leisring@owasp.org). Prior to participating,
-please review the [Chapter
-Rules](https://www.owasp.org/index.php/Chapter_Rules).
+please send an abstract and bio to the [chapter chair
+(Shlomo Heigh)](mailto:shlomo.heigh@owasp.org). Prior to participating,
+please review the [Chapter Rules](https://owasp.org/www-policy/operational/chapters).
 
 
 # About OWASP
