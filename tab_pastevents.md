@@ -19,7 +19,7 @@ tags: cincinnati
 
 **Speaker Biography:** Jay Simmons is a Senior AppSec Analyst for Great American and Security Champion program administrator. He's been working in the AppSec field for over 2 years and was previously a developer.
 
-**Presentation**
+**Presentation:**
 [OWASP Cinci - April 2023 - Do AppSec Better](./assets/presentations/Do%20AppSec%20Better.pdf)
 
 ## November 2022 Meeting
