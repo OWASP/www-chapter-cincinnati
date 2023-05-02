@@ -12,6 +12,16 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## April 2023 Meeting
+
+### Do AppSec Better
+**Discussion Abstract:** In this talk Jay will take us through his experience at the recent OWASP SnowFROC conference and share his main takeaways from the event.
+
+**Speaker Biography:** Jay Simmons is a Senior AppSec Analyst for Great American and Security Champion program administrator. He's been working in the AppSec field for over 2 years and was previously a developer.
+
+**Presentation:**
+[OWASP Cinci - April 2023 - Do AppSec Better](./assets/presentations/Do%20AppSec%20Better.pdf)
+
 ## November 2022 Meeting
 
 ### Security Champions Program
