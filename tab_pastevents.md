@@ -12,6 +12,35 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## July 2023 Meeting
+
+### Behind the Package: Unmasking Malicious Intent in Software
+**Discussion Abstract:** In an increasingly interconnected and digitized world,
+software applications have become prime targets for malicious actors seeking to
+exploit vulnerabilities. One common and stealthy method employed is the use of
+malicious packages, which harbor hidden dangers within their seemingly innocent
+exteriors. This presentation aims to shed light on the inner workings of these
+evil entities and equip AppSec professionals with the knowledge and tools to
+identify and mitigate such threats effectively. By exploring the techniques
+employed by attackers, dissecting real-world examples, and examining best
+practices for package management and security, attendees will gain a deeper
+understanding of the risks associated with malicious packages and acquire
+actionable strategies to fortify their software defenses. Join us as we delve
+into the shadows, uncovering the secrets behind malicious packages, and
+empowering AppSec professionals to safeguard their software from hidden threats.
+
+**Speaker Biography:** Tyler Agypt is an accomplished speaker and thought leader
+with a particular expertise in Application Security. With a dynamic speaking
+style and a wealth of industry knowledge, Tyler engages and inspires audiences
+by sharing actionable insights and practical strategies. As a seasoned
+professional, he has made significant contributions to the field, helping
+businesses and individuals achieve their AppSec goals.
+
+**Location:** Dixie Terminal, 49 E 4th St, Cincinnati, OH 45202
+
+**Presentation:**
+[OWASP Cinci - July 2023 - Behind the Package](./assets/presentations/Behind%20the%20Package.pdf)
+
 ## April 2023 Meeting
 
 ### Do AppSec Better
