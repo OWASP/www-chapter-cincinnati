@@ -12,6 +12,41 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## August 2023 Meeting
+
+### [Joint with CinciJS] Architecting Fortresses: ReactJS Security
+
+Note: Note: This was a joint event, co-hosted with the
+[CinciJS](https://www.meetup.com/cincinnati-javascript-user-group/events/shglxsyfclbmb/) group.
+
+**Discussion Abstract:** Architecting Fortresses: A Deep Dive into Advanced Security Measures for ReactJS Applications
+
+As we traverse the expanse of the digital world, client-side security risks, characterized by the formidable challenges of Cross-Site Scripting (XSS) and inadvertent leaks of privileged information, continue to pose significant threats. These technological adversities have been challenging web application developers for decades, highlighting the necessity of evolving security paradigms.
+
+ReactJS, a vanguard in the contemporary tech landscape, has initiated steps towards mitigating such threats, providing automatic defenses against Cross Site Scripting. However, mastering the art of building secure ReactJS applications still demands intricate knowledge and specialized expertise.
+
+This presentation will dissect the intricate dimensions of general-purpose Cross Site Scripting defense and a range of other client-side security strategies within the ReactJS framework. We invite ReactJS developers of all levels of proficiency to join us as we delve into a wealth of advanced techniques and recommendations that promise to transform your approach to ReactJS security.
+
+Our discussion will traverse an exciting plethora of topics including:
+
+- Exploring the React Component Attack Surface
+- Unraveling the Mystery of Unescaped Props and Types
+- Deconstructing dangerouslySetInnerHTML
+- Interpreting JavaScript URLs in the React Context
+- Integrating CSS Styled-Components with React
+- The Interplay between JSON Embedding and React
+- Deciphering React's Automatic Defenses
+- Mastering Manual Defense Techniques in React
+- Unveiling the Role of React Lazy Loading and Access Control
+- Investigating React Template Injection
+- Unpacking Server-side Rendering in React
+
+This exposition is intended to augment your skillset, bolster your defense strategies, and inspire you to create more secure ReactJS applications. Let's unite in our quest to navigate the labyrinth of ReactJS security, mastering advanced defense techniques, and cultivating an environment conducive to robust and secure application development!
+
+**Speaker Biography:** Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of "Iron-Clad Java: Building Secure Web Applications" from Oracle Press. Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. For more information, see https://www.linkedin.com/in/jmanico.
+
+**Recording:** [https://www.youtube.com/watch?v=0TAUXzk2e7o](https://www.youtube.com/watch?v=0TAUXzk2e7o)
+
 ## July 2023 Meeting
 
 ### Behind the Package: Unmasking Malicious Intent in Software
