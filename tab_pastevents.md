@@ -12,6 +12,49 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## September 2023 Meeting
+
+### Introducing the OWASP Top 10 for LLM Applications
+
+**Discussion Abstract:** As Large Language Models (LLMs) transform industries,
+the need for robust security measures has become increasingly important. Join us
+for a deep dive into the OWASP Top 10 for LLM Apps, a critical guide created by
+a team of nearly 500 experts to help secure LLM-based applications.The talk will
+begin with an exploration of the background behind this vital resource,
+including an in-depth look at the methodical process of determining the top 10
+risks. Learn about the unique challenges, high-risk issues, and uncharted
+territory that were traversed to create this comprehensive reference on LLM
+security.
+
+Then, you will delve into each of the top 10 risks, uncovering their
+intricacies, real-world implications, and mitigation strategies. From Prompt
+Injection to Model Theft, you will gain a holistic understanding of the
+vulnerabilities that are shaping the landscape of LLM security.Whether you are a
+developer, security expert, or simply curious about the future of LLM
+applications, this presentation will provide you with the insights and tools you
+need to navigate the exciting but complex world of LLM security.
+
+**Speaker Biography:** Steve Wilson is the Chief Product Officer at Contrast
+Security and the lead of the OWASP Top 10 For LLM Applications project.
+
+Steve has over 25 years of experience developing and marketing products at
+multi-billion-dollar technology companies such as Citrix, Oracle and Sun
+Microsystems. Prior to Contrast, Steve was the Vice President of Product
+Management for Citrix Cloud where he led the transformation of Citrix products
+from traditional on-prem to SaaS.  At Oracle, he led core engineering for a
+billion-dollar product line of systems management software.  During his time at
+Sun Microsystems, Steve was an early member of the team that developed the Java
+computer programming system, the most widely used set of software development
+tools in history.
+
+He founded his first AI company, called Emergent Behavior, in 1992.  More
+recently, he has led product teams using natural language processing to control
+IoT devices and pioneered a $100M business leveraging large datasets and machine
+learning to deliver User and Entity Behavior Analytics (UEBA) for Security and
+Performance at Citrix.
+
+**Recording:** [https://www.youtube.com/watch?v=J1auLaU9SAA](https://www.youtube.com/watch?v=J1auLaU9SAA)
+
 ## August 2023 Meeting
 
 ### [Joint with CinciJS] Architecting Fortresses: ReactJS Security
