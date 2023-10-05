@@ -53,6 +53,8 @@ IoT devices and pioneered a $100M business leveraging large datasets and machine
 learning to deliver User and Entity Behavior Analytics (UEBA) for Security and
 Performance at Citrix.
 
+**Presentation:** [OWASP Cinci - September 2023 - Introducing the OWASP Top 10 for LLM Applications](./assets//presentations/OWASP-Top-10-for-LLM-Applications-Deck-v101-3.pdf)
+
 **Recording:** [https://www.youtube.com/watch?v=J1auLaU9SAA](https://www.youtube.com/watch?v=J1auLaU9SAA)
 
 ## August 2023 Meeting
