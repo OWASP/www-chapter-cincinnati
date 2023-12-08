@@ -12,6 +12,27 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## December 2023 Meeting
+
+### Exploring Content Security Policies
+
+**Discussion Abstract:** Content Security Policies (CSPs) are an essential
+aspect of web application security. They help safeguard web applications against
+malicious attacks such as cross-site scripting (XSS) and clickjacking. In this
+presentation, we will explore how CSPs can protect your web applications from
+malicious attacks and how they can be implemented from an application security
+perspective. We will also discuss how to capture policy violations and ensure
+that site functionality is not impaired while companies work to implement these
+policies.
+
+**Speaker Biography:** Jay Simmons is a Senior AppSec Analyst for Great American
+and Security Champion program administrator. He's been working in the AppSec
+field for over 2 years and was previously a developer.
+
+**Presentation:** [Exploring CSPs](./assets/presentations/Exploring%20CSPs.pdf)
+
+**Recording:** <https://www.youtube.com/watch?v=NO-A4NbBNss>
+
 ## September 2023 Meeting
 
 ### Introducing the OWASP Top 10 for LLM Applications
