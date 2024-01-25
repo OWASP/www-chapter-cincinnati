@@ -12,6 +12,47 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## January 2024 Meeting
+
+### Stand Up Straight - Security Posture And You
+
+**Discussion Abstract:** Someone likely told you to stand up or sit up straight
+at some point in your childhood. We buy ergonomic chairs and desks to help us
+maintain a healthy posture while we work. We have been told forever that good
+posture has benefits for our joint and muscle health. We instinctively
+understand how to straighten our stances and spines. But, a new kind of posture
+has recently emerged that is not as intuitive: security posture.
+
+Without understanding what good security posture is and how we can measure it,
+being told to improve it is about as helpful as being told to "get better at
+security." While there is no 100% right one-size-fits-all way to approach
+security, mapping your goals against your current tools and processes is going
+to give you a much better view of how you can improve your security stance.
+
+This session is an attempt to both define and give a roadmap to measure security
+posture, no matter how large or complex the organization is or where you are on
+the security journey.
+
+Takeaways:
+
+- Defining Security Posture
+- How to measure your posture
+- The emergence of contextual security and security posture management platforms
+- Basing your stance on threat mapping
+- Establishing an active defensive stance
+
+**Speaker Biography:** Dwayne McDaniel has been working as a Developer Advocate
+since 2016 and has been involved in tech communities since 2005. He loves
+sharing his knowledge, and he has done so by giving talks at over a hundred
+events worldwide. He has been fortunate enough to speak at institutions like MIT
+and Stanford and far-off places like Paris and Iceland. Dwayne currently lives
+in Chicago. Outside of tech, he loves karaoke, live music, and performing
+improv. On the internet most places as @mcdwayne.
+
+**Presentation:** [Stand up Straight - Security Posture And You](./assets/presentations/Stand_up_Straight_Security_Posture_And_You.pdf)
+
+**Recording:** <https://www.youtube.com/watch?v=VEOImaRbPqM>
+
 ## December 2023 Meeting
 
 ### Exploring Content Security Policies
