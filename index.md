@@ -35,7 +35,7 @@ what local folks have been talking about.
 The board currently includes the following members:
 
 <b>Chapter Leader:</b> [Shlomo Heigh](mailto:shlomo.heigh@owasp.org)<br>
-<b>Chapter Leader:</b> [James Simmons](mailto:james.simmons@owasp.org)<br>
+<b>Chapter Leader:</b> [James Simmons](mailto:j.simmons@owasp.org)<br>
 If you are interested in presenting at one of the chapter meetings
 please send an abstract and bio to the [chapter chair
 (Shlomo Heigh)](mailto:shlomo.heigh@owasp.org). Prior to participating,
