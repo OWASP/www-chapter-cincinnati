@@ -12,6 +12,31 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## March 2024 Meeting
+
+### DevSecOps Worst Practices
+
+**Discussion Abstract:** Quite often when we read best practices we are told
+‘what’ to do, but not the ‘why’. When we are told to ensure there are no false
+positives in the pipeline, the reason seems obvious, but not every part of
+DevOps is that intuitive, and not all ‘best practices’ make sense on first
+blush. Let’s explore tried, tested, and failed methods, and then flip them on
+their head, so we know not only what to do to avoid them, but also why it is
+important to do so, with these DevSecOps WORST practices.
+
+**Speaker Biography:** Tanya Janca, also known as SheHacksPurple, is the
+best-selling author of ‘Alice and Bob Learn Application Security’. She is also
+the Head of Education and Community at Semgrep, sharing content and training
+that revolves around teaching everyone to create secure software. Tanya has been
+coding and working in IT for over twenty-five years, won countless awards, and
+has been everywhere from public service to tech giants, writing software,
+leading communities, founding companies and ‘securing all the things’. She is an
+award-winning public speaker & active blogger, and has delivered hundreds of
+talks on 6 continents. She values diversity, inclusion, and kindness, which
+shines through in her countless initiatives.
+
+**Recording:** <https://www.youtube.com/watch?v=pFhlOcm3MDg>
+
 ## January 2024 Meeting
 
 ### Stand Up Straight - Security Posture And You
