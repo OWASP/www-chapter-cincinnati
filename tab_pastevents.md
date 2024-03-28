@@ -35,6 +35,8 @@ award-winning public speaker & active blogger, and has delivered hundreds of
 talks on 6 continents. She values diversity, inclusion, and kindness, which
 shines through in her countless initiatives.
 
+**Presentation:** [DevSecOps Worst Practices](./assets/presentations/DevSecOps_Worst_Practices.pdf)
+
 **Recording:** <https://www.youtube.com/watch?v=pFhlOcm3MDg>
 
 ## January 2024 Meeting
