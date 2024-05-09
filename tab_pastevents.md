@@ -12,6 +12,32 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## May 2024 Meeting
+
+**Sponsor:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** This talk will feature live demos of Web API exploits
+against the “Tiredful API”, which is an intentionally broken web app. The
+objective is to teach developers, QA, and security professionals about flaws
+that are often present in Web Services (REST APIs) due to insecure coding
+practices. Examples include: Information Disclosure, Insecure Direct Object
+Reference (IDOR), Access Control, Throttling, SQL Injection, and Cross Site
+Scripting (XSS). Many of these vulnerabilities are contained in the OWASP Top 10
+list. This talk features additional tips and live demos.
+
+**Speaker Biography:** Matt Scheurer is Vice President of Computer Security and
+Incident Response in the Financial Services industry, with many years of
+hands-on technical experience. Matt is on the Advisory Board for the Warren
+County Career Center "Information Technology and Cybersecurity" program, and
+volunteers as a technical mentor for the Women's Security Alliance (WomSA). He
+has presented numerous Information Security topics at countless technology
+meetup groups, and prominent Information Security conferences, including
+keynotes at the Information Security Summit in Cleveland and Queen City Con in
+Cincinnati. Matt is also a 2019 comSpark "Rising Tech Stars Award" winner and
+was named a "Top 12 Hacking Influencer" by Bishop Fox in 2023.
+
+**Presentation:** [Hacking Web APIs](./assets/presentations/Hacking-Web-APIs.pdf)
+
 ## March 2024 Meeting
 
 ### DevSecOps Worst Practices
