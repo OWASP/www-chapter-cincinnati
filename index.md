@@ -12,6 +12,8 @@ region: North America
 ---
 <!-- rebuild -->
 
+<img src="assets/images/logos/OWASP_CINCINNATI_BANNER.png" alt="OWASP Cincinnati" width="500"/>
+
 # Welcome to the Cincinnati, Ohio OWASP Local Chapter
 
 Cincinnati OWASP chapter meetings are free and open to anyone interested in
