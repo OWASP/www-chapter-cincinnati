@@ -5,6 +5,7 @@ title: OWASP Cincinnati
 site_side: true
 tags: cincinnati
 meetup group: owasp-cincinnati-meetup-group
+meetup-group: owasp-cincinnati-meetup-group
 level: 3
 country: USA
 region: North America
