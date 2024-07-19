@@ -12,6 +12,35 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## July 2024 Meeting
+
+### Secrets Revealed for Launching a Successful Enterprise DevSecOps Program
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** This presentation walks through the patterns of
+successfully starting of a DevSecOps program from scratch. As such, it focuses
+on the strategies derived from both the successes and failures and lessons
+learned along the way on this journey. Lastly, this talk concludes how White
+House Executive Order (14028) centered around SBOM shapes the next steps of the
+DevSecOps maturity model and how organizations can leverage this new piece of
+legislation to bolster their application security defenses.
+
+**Speaker Biography:** Kevin Johnson is CEO of Secure Ideas, a consulting
+company dedicated to security testing and training. Kevin passionately advocates
+for cybersecurity through his work with Secure Ideas, as a global board member
+for OWASP and as a faculty member at IANS. During his over 30 years in the
+industry, Kevin acted as an instructor and author for the SANS institute. He
+also contributed to a number of open-source projects, including OWASP SamuraiWTF
+(a web pen-testing training environment), Laudanum (a collection of injectable
+web payloads) and Yokoso (an infrastructure fingerprinting project) and was the
+founder and lead of the BASE project for Snort. Kevin has served as an expert
+witness in court cases involving cybersecurity.
+
+**Presentation:** [DevSecOps Secrets](./assets/presentations/JoshHankins_DevSecOps.pdf)
+
 ## June 2024 Meeting
 
 ### The Truman Show: Real-world application attacks instead of canned demos
