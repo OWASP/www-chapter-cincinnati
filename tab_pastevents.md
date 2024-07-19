@@ -12,7 +12,35 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## June 2024 Meeting
+
+### The Truman Show: Real-world application attacks instead of canned demos
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** In this presentation, Kevin Johnson of Secure Ideas
+will walk attendees through various scenarios used in penetration testing of
+applications. These demonstrations will use real attacks and discuss how a
+penetration tester views applications. This talk will explain the mindset of an
+attacker, using actual applications as well as demonstration apps to allow for
+exploitation.
+
+**Speaker Biography:** Kevin Johnson is CEO of Secure Ideas, a consulting
+company dedicated to security testing and training. Kevin passionately advocates
+for cybersecurity through his work with Secure Ideas, as a global board member
+for OWASP and as a faculty member at IANS. During his over 30 years in the
+industry, Kevin acted as an instructor and author for the SANS institute. He
+also contributed to a number of open-source projects, including OWASP SamuraiWTF
+(a web pen-testing training environment), Laudanum (a collection of injectable
+web payloads) and Yokoso (an infrastructure fingerprinting project) and was the
+founder and lead of the BASE project for Snort. Kevin has served as an expert
+witness in court cases involving cybersecurity.
+
 ## May 2024 Meeting
+
+### Hacking Web APIs
 
 **Sponsor:** [Kroger](https://www.kroger.com)
 
