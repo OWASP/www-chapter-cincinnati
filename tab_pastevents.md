@@ -12,6 +12,38 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## August 2024 Meeting
+
+### OWASP Cheat Sheet Series Bug Bash!
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Event Details:** Interested in application security? Or have you been wanting
+to get into open source but aren't sure where to start? Come to our Bug Bash!
+We'll provide an overview of the
+[OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) project, a
+collection of articles on specific application security topics. Then we'll dive
+into the project's GitHub repository and start hacking away at issues. We'll
+have mentors on hand to help you get started and answer any questions you have.
+All skill levels are welcome!
+
+Never submitted a pull request before? No problem! We'll walk you through the
+process and help you get your first open source contribution under your belt.
+Are you an expert in one specific area of application security? Come contribute
+to the project by writing a new cheat sheet or improving an existing one. Just
+getting started? Come and learn from experts, and contribute by fixing typos,
+improving formatting, or adding examples to existing cheat sheets. You don't
+need to be a technical expert to participate in open source! Have tons of
+experience? Come help mentor others and review their pull requests.
+
+We'll unleash the group on the project and see how much we can accomplish in a
+couple hours. There will be food for all attendees, and we'll have special
+awards for the top contributors in various categories.
+
+**GitHub Issue Link:** [OWASP/CheatSheetSeries#1451](https://github.com/OWASP/CheatSheetSeries/issues/1451)
+
 ## July 2024 Meeting
 
 ### Secrets Revealed for Launching a Successful Enterprise DevSecOps Program
