@@ -12,6 +12,21 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## October 2024 Meeting
+
+### Cultivating Cybersecurity: Building and Sustaining a Security Champions Program
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Event Details:** In an era where cyber threats are rapidly evolving and increasingly targeting application vulnerabilities, organizations face significant challenges in maintaining robust security practices. Traditional security models often lead to bottlenecks, stifling the agility needed in today's fast-paced development environments. This talk introduces the Security Champions program—a strategic initiative that empowers development teams to take ownership of security responsibilities, fostering a culture of proactive security throughout the software development lifecycle.
+
+We will explore the essential components of a successful Security Champions program, including its definition, the critical role of Security Champions within development teams, and the importance of cultivating a supportive culture grounded in principles of a "just culture." Attendees will learn practical strategies for building, maintaining, and scaling their own Security Champions programs, ensuring that security becomes an integral part of their organizational fabric.
+Join us to discover how implementing a Security Champions program not only enhances security posture but also drives collaboration and innovation, ultimately safeguarding your organization against emerging threats.
+
+**Presentation:** [Cultivating Cybersecurity: Building and Sustaining a Security Champions Program](./assets/presentations/Cultivating%20Cybersecurity%20-%20Building%20and%20sustaining%20a%20security%20champions%20program.pdf)
+
 ## August 2024 Meeting
 
 ### OWASP Cheat Sheet Series Bug Bash!
