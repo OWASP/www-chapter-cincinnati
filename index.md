@@ -5,12 +5,15 @@ title: OWASP Cincinnati
 site_side: true
 tags: cincinnati
 meetup group: owasp-cincinnati-meetup-group
+meetup-group: owasp-cincinnati-meetup-group
 level: 3
 country: USA
 region: North America
 
 ---
 <!-- rebuild -->
+
+<img src="assets/images/logos/OWASP_CINCINNATI_BANNER.png" alt="OWASP Cincinnati" width="500"/>
 
 # Welcome to the Cincinnati, Ohio OWASP Local Chapter
 
@@ -20,7 +23,7 @@ Chapter meetings are generally held every one to two months.
 
 ## Check our Upcoming Meetup Events
 
-{% include chapter_events.html group=page.meetup-group %}
+{%include chapter_events.html group=page.meetup-group%}
 
 If you have never attended a meeting before and you are interested to attend one
 in the future, please join the [OWASP Slack](https://owasp.org/slack/invite)

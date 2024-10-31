@@ -12,7 +12,96 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## August 2024 Meeting
+
+### OWASP Cheat Sheet Series Bug Bash!
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Event Details:** Interested in application security? Or have you been wanting
+to get into open source but aren't sure where to start? Come to our Bug Bash!
+We'll provide an overview of the
+[OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) project, a
+collection of articles on specific application security topics. Then we'll dive
+into the project's GitHub repository and start hacking away at issues. We'll
+have mentors on hand to help you get started and answer any questions you have.
+All skill levels are welcome!
+
+Never submitted a pull request before? No problem! We'll walk you through the
+process and help you get your first open source contribution under your belt.
+Are you an expert in one specific area of application security? Come contribute
+to the project by writing a new cheat sheet or improving an existing one. Just
+getting started? Come and learn from experts, and contribute by fixing typos,
+improving formatting, or adding examples to existing cheat sheets. You don't
+need to be a technical expert to participate in open source! Have tons of
+experience? Come help mentor others and review their pull requests.
+
+We'll unleash the group on the project and see how much we can accomplish in a
+couple hours. There will be food for all attendees, and we'll have special
+awards for the top contributors in various categories.
+
+**GitHub Issue Link:** [OWASP/CheatSheetSeries#1451](https://github.com/OWASP/CheatSheetSeries/issues/1451)
+
+## July 2024 Meeting
+
+### Secrets Revealed for Launching a Successful Enterprise DevSecOps Program
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** This presentation walks through the patterns of
+successfully starting of a DevSecOps program from scratch. As such, it focuses
+on the strategies derived from both the successes and failures and lessons
+learned along the way on this journey. Lastly, this talk concludes how White
+House Executive Order (14028) centered around SBOM shapes the next steps of the
+DevSecOps maturity model and how organizations can leverage this new piece of
+legislation to bolster their application security defenses.
+
+**Speaker Biography:** Kevin Johnson is CEO of Secure Ideas, a consulting
+company dedicated to security testing and training. Kevin passionately advocates
+for cybersecurity through his work with Secure Ideas, as a global board member
+for OWASP and as a faculty member at IANS. During his over 30 years in the
+industry, Kevin acted as an instructor and author for the SANS institute. He
+also contributed to a number of open-source projects, including OWASP SamuraiWTF
+(a web pen-testing training environment), Laudanum (a collection of injectable
+web payloads) and Yokoso (an infrastructure fingerprinting project) and was the
+founder and lead of the BASE project for Snort. Kevin has served as an expert
+witness in court cases involving cybersecurity.
+
+**Presentation:** [DevSecOps Secrets](./assets/presentations/JoshHankins_DevSecOps.pdf)
+
+## June 2024 Meeting
+
+### The Truman Show: Real-world application attacks instead of canned demos
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** In this presentation, Kevin Johnson of Secure Ideas
+will walk attendees through various scenarios used in penetration testing of
+applications. These demonstrations will use real attacks and discuss how a
+penetration tester views applications. This talk will explain the mindset of an
+attacker, using actual applications as well as demonstration apps to allow for
+exploitation.
+
+**Speaker Biography:** Kevin Johnson is CEO of Secure Ideas, a consulting
+company dedicated to security testing and training. Kevin passionately advocates
+for cybersecurity through his work with Secure Ideas, as a global board member
+for OWASP and as a faculty member at IANS. During his over 30 years in the
+industry, Kevin acted as an instructor and author for the SANS institute. He
+also contributed to a number of open-source projects, including OWASP SamuraiWTF
+(a web pen-testing training environment), Laudanum (a collection of injectable
+web payloads) and Yokoso (an infrastructure fingerprinting project) and was the
+founder and lead of the BASE project for Snort. Kevin has served as an expert
+witness in court cases involving cybersecurity.
+
 ## May 2024 Meeting
+
+### Hacking Web APIs
 
 **Sponsor:** [Kroger](https://www.kroger.com)
 
