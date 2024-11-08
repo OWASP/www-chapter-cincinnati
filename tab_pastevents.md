@@ -12,6 +12,30 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## October 2024 Meeting
+
+### Cultivating Cybersecurity: Building and Sustaining a Security Champions Program
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** In an era where cyber threats are rapidly evolving and
+increasingly targeting application vulnerabilities, organizations face significant
+challenges in maintaining robust security practices.Traditional security models
+often lead to bottlenecks, stifling the agility needed in today's fast-paced
+development environments. This talk introduces the Security Champions program—a
+strategic initiative that empowers development teams to take ownership of security
+responsibilities, fostering a culture of proactive security throughout the software
+development lifecycle.
+
+**Speaker Biography:** Jay Simmons is a Senior AppSec Analyst for Great American
+and Security Champion program administrator. He's been working in the AppSec field
+for over 2 years and was previously a developer. He's also the co-lead of this
+OWASP chapter!
+
+**Presentation:** [Cultivating Cybersecurity: Building and Sustaining a Security Champions Program](./assets/presentations/Cultivating%20Cybersecurity%20-%20Building%20and%20sustaining%20a%20security%20champions%20program.pdf)
+
 ## August 2024 Meeting
 
 ### OWASP Cheat Sheet Series Bug Bash!
