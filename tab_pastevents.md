@@ -12,6 +12,39 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## January 2025 Meeting
+
+### Former Hacker and Zero Day Developer's Perspective on Why AppSec Matters
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract and Speakers' Biography:** Former "World’s Most Wanted"
+hacker and exploit developer known as Hackah Jak from the Hackweiser group,
+brings his unique expertise to the forefront of application security. With a
+career spanning software reverse engineering, zero-day development, hacking,
+cyberwarfare, and web application engineering, Jesse offers a rare and unique
+perspective.
+
+Jesse will challenge you to see the true value of application security beyond
+mere financial metrics. Drawing from his firsthand experiences combating scams
+and human trafficking, he will offer insights that inspire a deeper
+understanding of the real-world impact of vulnerabilities.
+
+Joining Jesse for this talk is his daughter, Reesë, a talented teenage girl.
+Accepted to college at 13 years old, Reesë earned her Bachelor in Computer
+Science, with honors, at the age of 17, and then became the first student in
+Ohio to pursue a Master’s degree while in high school. Before graduating high
+school she completed 4 more Associate Degrees in various areas of technology.
+Her academic accomplishments are complemented by a remarkable professional
+journey, including internships at GE Core Tech and Kroger IT. Reese is the
+founder of a startup building a cutting-edge Cyber Threat Research and Training
+Platform, backed by an investment and bolstered by her innovative research,
+which has already led to her first patent filing. In addition she now services
+as the secretary for the IEEE SA P1947 Standards for Quantum Cybersecurity
+Framework group.
+
 ## October 2024 Meeting
 
 ### Cultivating Cybersecurity: Building and Sustaining a Security Champions Program
