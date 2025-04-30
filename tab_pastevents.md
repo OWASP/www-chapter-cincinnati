@@ -12,6 +12,21 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## March 2025 Meeting
+
+### AppSec CTF with Black Duck
+
+**Sponsor:** [Black Duck](https://www.blackduck.com/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Event Details:** Come and join us for an evening of fun with a Capture the
+Flag (CTF) event that walks you through the day and life of a security-focused
+developer. You will embark upon three hands-on labs that showcase everything
+from development in your IDE ("shift-left") to automating your security scanning
+with GitHub actions. No development experience is necessary to join in on this
+fun!
+
 ## January 2025 Meeting
 
 ### Former Hacker and Zero Day Developer's Perspective on Why AppSec Matters
