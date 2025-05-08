@@ -36,20 +36,23 @@ The board currently includes the following members:
 
 **Chapter Leader:** [James Simmons](mailto:j.simmons@owasp.org)
 
-## Sponsors
+## Get Involved
 
-The OWASP Cincinnati Chapter is proudly sponsored by:
+We are always looking for volunteers to help with the chapter. If you are
+interested in helping out, please reach out to the chapter leaders. We are
+looking for volunteers to help with:
 
-<a href="https://traceable.ai/">
-    <img src="assets/images/traceable-logo.png" alt="Traceable" width="300"/>
-</a>
+- Organizing meetings
+- Finding speakers
+- Arranging food and drinks
+- Promoting the chapter
 
 ## Call For Speakers
 
 If you are interested in presenting at one of the chapter meetings
 please send an abstract and bio to the
-[chapter chair (Shlomo Heigh)](mailto:shlomo.heigh@owasp.org). Prior to participating,
-please review the [Chapter Rules](https://owasp.org/www-policy/operational/chapters).
+chapter leaders, [Shlomo Heigh](mailto:shlomo.heigh@owasp.org) and [James Simmons](mailto:j.simmons@owasp.org).
+Prior to participating, please review the OWASP [Chapter Rules](https://owasp.org/www-policy/operational/chapters).
 
 ## About OWASP
 
