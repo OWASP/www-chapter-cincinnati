@@ -12,6 +12,48 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## June 2025 Meeting
+
+### From Theory to Practice: Live OWASP Top 10 Demonstrations
+
+**Discussion Abstract:** Join us for an interactive cybersecurity session where
+we'll move beyond theoretical discussions to hands-on exploitation of the OWASP
+Top 10 vulnerabilities. This live demonstration will showcase real-world attack
+techniques using industry-standard tools in a safe, controlled environment.
+
+**Speaker Biography:** Ryan Ross is a IT practitioner with a verity of
+experience over his ten year career. He’s worked on wide range of systems from
+datacenter supercomputers to distributed web applications in the public clouds.
+He’s recently moved into security, drawing on his own experience. By day he’s a
+Senior Product Security Engineer at dbt Labs where he secures Kubernetes
+components and workloads and by night he’s an independent IT consultant building
+web APIs, secure by default cloud infrastructure, and conducting penetration
+tests. Ryan is always curious and is constantly learning. While not at a
+keyboard, he enjoys being with his family outside camping and hiking.
+
+## May 2025 Meeting
+
+### Ask a Developer
+
+**Sponsor:** [WWT](https://www.wwt.com/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** Come join us for an insightful session where you can
+learn more about security from the perspective of your developers.
+
+Security professionals have different priorities than developers, and this can
+lead to friction between the two groups. In this session, we will discuss how to
+see things from a developer's perspective, which can help you communicate more
+effectively and even empathize with them, leading to a more productive (and
+maybe even enjoyable) relationship.
+
+Bring your questions and be ready to share your own experiences!
+
+**Speaker Biography:** Shlomo Heigh is a Staff Software Engineer and Security
+Champion at CyberArk, where he works on the Conjur open source secrets
+management project. He's also co-lead of the OWASP Cincinnati chapter.
+
 ## March 2025 Meeting
 
 ### AppSec CTF with Black Duck
@@ -84,6 +126,25 @@ OWASP chapter!
 
 **Presentation:** [Cultivating Cybersecurity: Building and Sustaining a Security Champions Program](./assets/presentations/Cultivating%20Cybersecurity%20-%20Building%20and%20sustaining%20a%20security%20champions%20program.pdf)
 
+## September 2024 Meeting
+
+### API Security Blunders: Tales from the Cyber Trenches
+
+**Sponsor:** [Traceable](https://www.traceable.ai/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** In this session, we dive into API Security by
+dissecting real-world API vulnerabilities that have caused security breaches.
+We'll guide you through the process of hunting for such vulnerabilities, and
+provide insights to effectively defend against such attacks.
+
+**Speaker Biography:** Eaton Zveare is a security researcher at Traceable. As a
+member of Traceable's ASPEN Labs team, he has contributed to the security of
+some of the world's largest organizations by finding and responsibly disclosing
+many critical vulnerabilities. He is best known for his high-profile security
+disclosures in the automotive space.
+
 ## August 2024 Meeting
 
 ### OWASP Cheat Sheet Series Bug Bash!
@@ -132,16 +193,24 @@ House Executive Order (14028) centered around SBOM shapes the next steps of the
 DevSecOps maturity model and how organizations can leverage this new piece of
 legislation to bolster their application security defenses.
 
-**Speaker Biography:** Kevin Johnson is CEO of Secure Ideas, a consulting
-company dedicated to security testing and training. Kevin passionately advocates
-for cybersecurity through his work with Secure Ideas, as a global board member
-for OWASP and as a faculty member at IANS. During his over 30 years in the
-industry, Kevin acted as an instructor and author for the SANS institute. He
-also contributed to a number of open-source projects, including OWASP SamuraiWTF
-(a web pen-testing training environment), Laudanum (a collection of injectable
-web payloads) and Yokoso (an infrastructure fingerprinting project) and was the
-founder and lead of the BASE project for Snort. Kevin has served as an expert
-witness in court cases involving cybersecurity.
+**Speaker Biography:** Josh Hankins has 25+ years of experience within the IT
+field. Starting in the mid '90s to 2006, he worked as a network engineer and
+held the CCNP certification for 20 years. Since 2006, he worked in various roles
+within the cybersecurity profession, such as security architect, analyst,
+engineer and incident leader. These roles spanned businesses ranging from a
+Fortune 500 financial institution, a credit card processor and a global
+consulting company. He served 9 years as the Director of Security and Incident
+Response for a data analytics subsidiary for the 5th largest retailer in the
+world. During this tenure as a security leader, Josh successfully built and
+matured several cyber security programs such as: Vulnerability Management,
+DevSecOps, Cyber Risk Metrics, and Incident Response for both on-prem & the
+cloud.  Before moving on to be a consultant, Josh worked recently for a global
+SaaS security & compliance vendor as a Field CISO. As such, he traveled
+throughout North America partnering with customers to help them achieve their
+strategic business goals in a secure manner. Josh holds many industry
+certifications (such as CISSP, 3x GIAC) and is a member of his local InfraGard
+chapter. He currently volunteers his time by mentoring others and serving on the
+cyber security board for Northern Kentucky University.
 
 **Presentation:** [DevSecOps Secrets](./assets/presentations/JoshHankins_DevSecOps.pdf)
 

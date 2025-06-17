@@ -23,7 +23,8 @@ Chapter meetings are generally held every one to two months.
 
 ## Check our Upcoming Meetup Events
 
-{%include chapter_events.html group=page.meetup-group%}
+<!-- This snippet is not working. It always shows "No events currently scheduled" -->
+<!-- {%include chapter_events.html group=page.meetup-group%} -->
 
 If you have never attended a meeting before and you are interested to attend one
 in the future, please join the [OWASP Slack](https://owasp.org/slack/invite)
