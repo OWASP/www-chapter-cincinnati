@@ -12,9 +12,58 @@ tags: cincinnati
 ## Past Events
 <hr>
 
+## July 2025 Meeting
+
+### The Dark Side of AI: Writing Insecure Apps in Minutes
+
+**Sponsor:** [OX Security](https://www.ox.security/)
+
+**Host:** [Kroger](https://www.kroger.com)
+
+**Discussion Abstract:** AI is the ultimate accelerant for application
+development - it's power unmatched - but without balance and control, it can
+quickly ignite new risks, turning potential into destruction. Explore the
+tangible impact of AI-generated code in this session buy playing with fire -
+Using GPT-driven prompts, we'll build a fully functional application, and in
+real time, we'll uncover how common security flaws like SQL injection,
+cross-site scripting, and weak authentication can manifest in AI-generated code.
+
+Through hands-on exploration, we'll walk through the potential impact of these
+vulnerabilities and how these risks could be avoided with secure coding
+practices, defined policies, developer guardrails, and thorough security audits
+and code review.
+
+By the end of the session, you'll have a deep understanding of how to:
+
+- Recognize and assess the risks AI introduces in your code.
+- Implement secure coding practices and enforce security policies.
+- Integrate security audits, code reviews, and testing into your development
+  workflow to ensure AI-generated code is safe for production.
+
+This session is vendor agnostic and designed to empower you to reap the benefits
+of AI without sacrificing security.
+
+**Speaker Biography:** Chris Lindsey is a seasoned speaker who has appeared at
+conferences, webinars, and private events. Currently building an online
+community and creating a podcast series, Chris draws on expertise from more than
+15 years of direct security experience and over 35 years of experience leading
+teams in programming and software, solutions, and security architecture.
+
+For three years, Chris built and led an entire application security program that
+includes the implementation of mature AppSec programs, including oversight of
+security processes and procedures, SAST, DAST, CSA/OSA, compliance, training,
+developer communication, code reviews, application inventory gathering, and risk
+analysis.
+
+**Presentation:** [The Dark Side of AI: Writing Insecure Apps in Minutes](./assets/presentations/DarkSide%20of%20AI%20-%20Share%20Version.pdf)
+
 ## June 2025 Meeting
 
 ### From Theory to Practice: Live OWASP Top 10 Demonstrations
+
+**Sponsor:** [WWT](https://www.wwt.com/)
+
+**Host:** [Kroger](https://www.kroger.com)
 
 **Discussion Abstract:** Join us for an interactive cybersecurity session where
 we'll move beyond theoretical discussions to hands-on exploitation of the OWASP
