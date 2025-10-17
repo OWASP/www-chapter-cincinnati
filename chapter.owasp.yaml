@@ -1,0 +1,30 @@
+community:
+  - name: chapter-cincinnati
+    platform: slack
+    url: https://owasp.slack.com/archives/C04AFRF7HCL
+    description: OWASP Cincinnati, Ohio, USA chapter
+leaders:
+  - name: Shlomo Heigh
+    email: shlomo.heigh@owasp.org
+    github: szh
+  - name: James Simmons
+    email: j.simmons@owasp.org
+    github: Jeymz
+location:
+  country: United States
+  country_code: US
+  region: Ohio
+  city: Cincinnati
+  latitude: 39.1014537
+  longitude: -84.5124602
+meetup_group: owasp-cincinnati-meetup-group
+name: OWASP Cincinnati
+repositories:
+  - name: www-chapter-cincinnati
+    url: https://github.com/OWASP/www-chapter-cincinnati
+    description: OWASP Cincinnati chapter web repository
+tags:
+  - cincinnati
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-cincinnati
