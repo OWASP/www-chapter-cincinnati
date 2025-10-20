@@ -25,6 +25,6 @@ repositories:
     description: OWASP Cincinnati chapter web repository
 tags:
   - cincinnati
-  - custom-tag-1
-  - custom-tag-2
+  - cincy
+  - ohio
 website: https://owasp.org/www-chapter-cincinnati
